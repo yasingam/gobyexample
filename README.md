@@ -14,7 +14,7 @@ Content listing (bold completed):
    - **For**
    - **If/Else**
    - **Switch**
-   - Arrays
+   - **Arrays**
    - Slices
    - Maps
    - Functions
